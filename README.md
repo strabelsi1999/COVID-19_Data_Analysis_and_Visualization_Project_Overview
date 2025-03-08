@@ -2,9 +2,10 @@
 ## Objective:
 This project explores the global impact of COVID-19 using SQL for data extraction, transformation, and analysis, and Tableau for data visualization. It provides insights into infection rates, mortality rates, and vaccination progress worldwide.
 
-## Data Source: Our World in Data - COVID-19 Dataset (https://ourworldindata.org/covid-deaths)
+## Data Source: 
+Our World in Data - COVID-19 Dataset (https://ourworldindata.org/covid-deaths)
 
-##Tools & Skills Used:
+## Tools & Skills Used:
     1. SQL: Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Data Type Conversions, Views
     2. Tableau: Interactive Dashboard Design
 
